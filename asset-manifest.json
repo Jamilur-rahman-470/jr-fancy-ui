@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/jr-fancy-ui/static/css/main.14d6717c.chunk.css",
+    "main.js": "/jr-fancy-ui/static/js/main.0c650a3c.chunk.js",
+    "main.js.map": "/jr-fancy-ui/static/js/main.0c650a3c.chunk.js.map",
+    "runtime-main.js": "/jr-fancy-ui/static/js/runtime-main.1badc297.js",
+    "runtime-main.js.map": "/jr-fancy-ui/static/js/runtime-main.1badc297.js.map",
+    "static/js/2.ca7ae83f.chunk.js": "/jr-fancy-ui/static/js/2.ca7ae83f.chunk.js",
+    "static/js/2.ca7ae83f.chunk.js.map": "/jr-fancy-ui/static/js/2.ca7ae83f.chunk.js.map",
+    "index.html": "/jr-fancy-ui/index.html",
+    "precache-manifest.e89e0c268b8466feca348ba5579be06d.js": "/jr-fancy-ui/precache-manifest.e89e0c268b8466feca348ba5579be06d.js",
+    "service-worker.js": "/jr-fancy-ui/service-worker.js",
+    "static/css/main.14d6717c.chunk.css.map": "/jr-fancy-ui/static/css/main.14d6717c.chunk.css.map",
+    "static/js/2.ca7ae83f.chunk.js.LICENSE.txt": "/jr-fancy-ui/static/js/2.ca7ae83f.chunk.js.LICENSE.txt",
+    "static/media/1.png": "/jr-fancy-ui/static/media/1.f0c37f18.png",
+    "static/media/2.png": "/jr-fancy-ui/static/media/2.55fbfc9d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1badc297.js",
+    "static/js/2.ca7ae83f.chunk.js",
+    "static/css/main.14d6717c.chunk.css",
+    "static/js/main.0c650a3c.chunk.js"
+  ]
+}
